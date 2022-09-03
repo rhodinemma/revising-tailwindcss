@@ -12,11 +12,11 @@ const Hero = () => {
           Grow in technology.
         </h1>
         <div className="flex justify-center items-center">
-          <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">
+          <p className="md:text-4xl sm:text-4xl text-xl font-bold py-4">
             Easy, flexible dabbling for{" "}
           </p>
           <Typed
-            className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
+            className="md:text-4xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
             strings={["Students", "Developers", "Free Lancers"]}
             typeSpeed={120}
             backSpeed={140}
